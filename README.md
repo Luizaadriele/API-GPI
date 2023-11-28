@@ -35,7 +35,7 @@ Sprint | Previsão | Status| Histórico|
 >Colocar aqui uma imagem da equipe com a logo do grupo.
 
 <p align="center">
- <img src="https://github.com/Luizaadriele/API-GPI/commit/cba6fa914031760d3f515f12a755bb87c6ce425a#commitcomment-133542614" width="100%"/>
+ <img src="https://github.com/Luizaadriele/API-GPI/blob/main/285696369-5207f78b-c20d-4f68-8533-6614e9a291cb.jpeg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
@@ -44,12 +44,7 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
-</p>
+[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
