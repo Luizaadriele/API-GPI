@@ -16,9 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Consultoria para uma empresa Mineira no ramo de doces que esta no mercadoa mais de 55 anos. 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
@@ -29,17 +27,15 @@ Sprint | Previsão | Status| Histórico|
 |04| 26/11/2023 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções | dd/mm/aaaa | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-> Possíveis status: a fazer, em progresso e concluido
-
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
 
 <p align="center">
  <img src="https://github.com/Luizaadriele/API-GPI/blob/main/285696369-5207f78b-c20d-4f68-8533-6614e9a291cb.jpeg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+>O presente trabalho tem como objetivos gerais e específicos discutir e responder determinadas perguntas que tem comprometido o sucesso da Empresa Doce Saber no mercado, efetuar um análise de suas potencialidades e fragilidades e por fim apresentar um plano de ação inicial para que a empresa consiga obter “sustentação e fôlego” no mercado para que ela possa ao longo do tempo atingir alta potencialidade em todos os seguintes internos e atingir aquilo que todos os grandes empreendedores almejam: sucesso de mercado, reconhecimento de suas marcas e lucros afim de expandir suas marcas a nível nacional e internacional.
+Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princípio será apresentado a empresa em sua essência, o seu público de consumidores, potencialidades e principalmente as suas fragilidades, pois a premissa maior deste trabalho é apontar a importâncias das Empresas de Consultoria que foram criadas por grandes profissionais, a fim de apontar soluções que consigam manter a recuperação e sucesso dos andes empreendimento. Dentro os demais objetivos, será apresentado grandes cases de sucesso onde grandes e pequenas empresas que só conseguiram sobreviver as dificuldades do mercado e de sua estão raças as agências de Consultoria.
 
 # Funcionalidades e Demonstrações das Sprints
 
@@ -47,36 +43,13 @@ Sprint | Previsão | Status| Histórico|
 [![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
-</p>
+[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
-</p>
+[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 ## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
-</p>
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
-</p>
+[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 ## Tecnologias Utilizadas
 ### Produto 
