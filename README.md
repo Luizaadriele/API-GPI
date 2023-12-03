@@ -54,17 +54,14 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 ## Tecnologias Utilizadas
 ### Produto 
 * Sprint 1
-Aanálise de Swot
-Sprint 2
-Pesquisa de Mercado
-Sprint 3
-Novo Layout e Insights
-Sprint 4(Cancelada)
-Delivery e Fornecedores
-> sprint 1 swot
-> sprint 2 curva abc
-> sprint 3 previsão de demanda
-> sprint 4 nova empresa
+  Análise de Swot
+* Sprint 2
+  Curva ABC
+* Sprint 3
+  Previsão de Demanda
+* Sprint 4
+  Crriação de um novo seguimento 
+
 
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
