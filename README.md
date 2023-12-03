@@ -72,21 +72,6 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 ### Mindset Digital
 > Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
 
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
-
-## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
-
 ## Burndown
 >Colocar aqui Burndown do projeto
 
