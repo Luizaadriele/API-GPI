@@ -53,7 +53,14 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+> Sprint 1
+Estratégias Propostas
+Sprint 2
+Pesquisa de Mercado
+Sprint 3
+Novo Layout e Insights
+Sprint 4(Cancelada)
+Delivery e Fornecedores
 > sprint 1 swot
 > sprint 2 curva abc
 > sprint 3 previsão de demanda
