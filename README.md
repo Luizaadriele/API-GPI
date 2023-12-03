@@ -40,7 +40,7 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://img.youtube.com/vi/vw3xnh3h-Xk /0.jpg)](https://youtu.be/vw3xnh3h-Xk)
+[![SPRINT 1](https://img.youtube.com/vi/vw3xnh3h-Xk/0.jpg)](https://youtu.be/vw3xnh3h-Xk)
 
 ## Sprint 2
 [![SPRINT 1](https://img.youtube.com/vi/erJ3ZEw7HgM/0.jpg)](https://youtu.be/erJ3ZEw7HgM)
