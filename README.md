@@ -66,13 +66,6 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 * Brainstorm
 * Excel
   
-### Mindset Digital
-> Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
-
 ## Sprint 1 - Concepção
 >Análise de Swot
 
