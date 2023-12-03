@@ -43,13 +43,13 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 [![SPRINT 1](https://img.youtube.com/vi/vw3xnh3h-Xk/0.jpg)](https://youtu.be/vw3xnh3h-Xk)
 
 ## Sprint 2
-[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
+[![SPRINT 1](https://img.youtube.com/vi/erJ3ZEw7HgM/0.jpg)](https://youtu.be/erJ3ZEw7HgM)
 
 ## Sprint 3
-[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
+[![SPRINT 1](https://img.youtube.com/vi/H2dPf1Pj4T4/0.jpg)](https://youtu.be/H2dPf1Pj4T4)
 
 ## Sprint 4
-[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
+[![SPRINT 1](https://img.youtube.com/vi/Cs9EPahKbWs/0.jpg)](https://youtu.be/Cs9EPahKbWs)
 
 ## Tecnologias Utilizadas
 ### Produto 
