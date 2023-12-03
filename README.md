@@ -53,8 +53,8 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Sprint 1
-Estratégias Propostas
+* Sprint 1
+Aanálise de Swot
 Sprint 2
 Pesquisa de Mercado
 Sprint 3
