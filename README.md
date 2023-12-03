@@ -63,11 +63,11 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
  > Criação de um novo seguimento
 
 ### Tecnológias Específicas/Apoio
-> PowerPoint
-> Microsoft Teams
-> Scrum
-> Brainstorm
-> Excel
+* PowerPoint
+* Microsoft Teams
+* Scrum
+* Brainstorm
+* Excel
   
 ### Mindset Digital
 > Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
