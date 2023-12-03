@@ -54,21 +54,23 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 ## Tecnologias Utilizadas
 ### Produto 
 * Sprint 1
-  Análise de Swot
+ > Análise de Swot
 * Sprint 2
-  Curva ABC
+ > Curva ABC
 * Sprint 3
-  Previsão de Demanda
+ > Previsão de Demanda
 * Sprint 4
-  Crriação de um novo seguimento 
-
+ > Criação de um novo seguimento
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
-> qual tipo de previsão que utilizou excel, power point 
+> PowerPoint
+> Microsoft Teams
+> Scrum
+> Brainstorm
+> Excel
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+> Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
 
 # Cronograma das Sprints
 
