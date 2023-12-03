@@ -72,9 +72,6 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 ### Mindset Digital
 > Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
 
-## Burndown
->Colocar aqui Burndown do projeto
-
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
 </p>
