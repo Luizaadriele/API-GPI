@@ -25,7 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |02| 15/10/2023 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 05/11/2023 | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| 26/11/2023 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções | dd/mm/aaaa | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções | 12/12/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Equipe
 
@@ -40,7 +40,7 @@ Portanto, o objeto de estudo será a empresa “Empresa Doce Sabor”, em princ�
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://youtu.be/=vw3xnh3h-Xk)
+[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/vw3xnh3h-Xk&list=PLgAAmiMi8Q-g1wRvCjd6UpikoMSKjNzB2)
 
 ## Sprint 2
 [![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
